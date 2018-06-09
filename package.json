@@ -1,0 +1,29 @@
+{
+  "name": "pulsarcoin",
+  "version": "0.0.1",
+  "description": "This is a basic blockchain crypto made in javascript",
+  "main": "Node.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.3",
+    "sync-request": "^6.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mw2000/PulsarCoin.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "blockchain"
+  ],
+  "author": "Mihir Wadekar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mw2000/PulsarCoin/issues"
+  },
+  "homepage": "https://github.com/mw2000/PulsarCoin#readme"
+}
